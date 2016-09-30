@@ -3,5 +3,8 @@ img{
 }
 
 body{
-    text-align: center
+    text-align: center;
+    color: green;
+    background-color: lightblue;
+    text-shadow: 1px 1px #000000;
 }
